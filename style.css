@@ -1,0 +1,30 @@
+body{
+	color: gray;
+	font-font-family: arial;
+	width: 850px;
+	margin: auto; 
+	background-repeat: none;
+	background-size: cover;
+	background-color: black;
+	font-size: 25px;
+}
+img {
+    width: 400px;
+    height:255px;
+    border: 3px solid #73AD21;
+}
+
+h1 {
+	font-size: 75px;
+}
+
+a {
+	font-size: 25px;
+}
+
+li {
+	list-style: none;
+}
+p {
+	font-size:20px ;
+}
